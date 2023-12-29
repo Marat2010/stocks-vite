@@ -54,5 +54,6 @@
 
 </script>
 
-<!--npm run dev -- --host 192.168.0.3  -Запуск на другом адресе   -->
+<!-- npm create vite@latest stock-vite   -Установка -->
+<!-- npm run dev -- --host 192.168.0.3   -Запуск на другом адресе   -->
 
