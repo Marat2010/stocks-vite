@@ -55,6 +55,6 @@
 </script>
 
 <!-- npm create vite@latest stock-vite   -Установка -->
-<!-- $cd stock-vite ; $npm install       -Установка -->
+<!-- $cd stock-vite ; $npm install ;  $npm install axios      -Установка -->
 <!-- npm run dev -- --host 192.168.0.3   -Запуск на другом адресе   -->
 
